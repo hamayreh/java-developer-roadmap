@@ -16,6 +16,10 @@ If you like or are using this project to learn or start your solution, please gi
 
 ![Roadmap](java-developer-roadmap.png)
 
+## dzone.com Roadmap
+
+![Roadmap](The 2019 Java Developer RoadMap.jpg)
+
 ## Resources
 
 1. Prerequisites
