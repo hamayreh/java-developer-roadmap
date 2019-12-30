@@ -18,7 +18,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ## dzone.com Roadmap
 
-![Roadmap](The 2019 Java Developer RoadMap.jpg)
+![dzone.com Roadmap](dzone-java-roadmap.jpg)
 
 ## Resources
 
